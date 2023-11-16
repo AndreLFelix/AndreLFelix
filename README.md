@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndreLFelix
+- 👋 Hi, I’m @Andre Luiz de Medeiros Felix
 - 🌱 I’m currently learning Javascript,HTML,CSS,React
 
 <!---
