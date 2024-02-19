@@ -1,4 +1,4 @@
-- 👋 Hi, I’m André Luiz de Medeiros Felix.
+- 👋 Hi, I’m André Luiz de Medeiros Felix, Front-End dev and Game Programmer.
 
 - 🌱 I’m currently learning Javascript, HTML, CSS, ReactJs and Typescript.
 
